@@ -39,8 +39,10 @@ data/
 # Scratch
 scratch/
 
-# Video files (demo hosted on Google Drive)
+# Video files (raw recordings ignored; optimized demo.mp4 and docs/ tracked)
 *.mov
-*.mp4
 *.avi
 *.mkv
+*.mp4
+!demo.mp4
+

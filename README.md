@@ -8,12 +8,14 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1fXPz6qEGwzjN-nBEzCyDlxlg2MtsQJlk/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶_Watch_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Watch Demo" />
+    <img src="docs/demo.gif" alt="WORKNOON Refund Assistant Demo" width="850" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://drive.google.com/file/d/1fXPz6qEGwzjN-nBEzCyDlxlg2MtsQJlk/view?usp=sharing">👉 Watch the full demo here</a></strong>
+  🍿 <strong>Watch here:</strong> <a href="https://drive.google.com/file/d/1fXPz6qEGwzjN-nBEzCyDlxlg2MtsQJlk/view?usp=sharing"><strong>https://drive.google.com/file/d/1fXPz6qEGwzjN-nBEzCyDlxlg2MtsQJlk/view?usp=sharing</strong></a>
+  <br />
+  <em>(An offline copy is also included in this repo as <a href="demo.mp4"><code>demo.mp4</code></a>)</em>
 </p>
 
 ---
